@@ -12,10 +12,8 @@ Copy code
     <name>Aug2023POMSeries</name>
     <url>http://www.example.com</url>
     --------------------------------------------
-**This section defines the basic information about the Maven project, such as its group ID, artifact ID, version, name, and URL.**
+**This section defines the basic information about the Maven project, such as its group ID, artifact ID, version, name, and URL**
 
-Properties
---------------------------------------------------------------
 xml
 Copy code
 <properties>
