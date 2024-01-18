@@ -1,4 +1,5 @@
-![image](https://github.com/susmithatippireddy/SeleniumautomationNotes1/assets/145751489/506a39aa-6a38-45e2-a287-ad57211c8485)
+**Let's go through each section of the provided pom.xml file and understand what each part does**
+:![image](https://github.com/susmithatippireddy/SeleniumautomationNotes1/assets/145751489/506a39aa-6a38-45e2-a287-ad57211c8485)
 
 **This section defines the basic information about the Maven project, such as its group ID, artifact ID, version, name, and URL**
 
