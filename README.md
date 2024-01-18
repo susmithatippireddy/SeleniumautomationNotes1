@@ -1,4 +1,4 @@
-# SeleniumautomationNotes1
+**SeleniumautomationNotes1**
 
 xml
 Copy code
@@ -11,7 +11,7 @@ Copy code
     <version>0.0.1-SNAPSHOT</version>
     <name>Aug2023POMSeries</name>
     <url>http://www.example.com</url>
-    --------------------------------------------
+   
 **This section defines the basic information about the Maven project, such as its group ID, artifact ID, version, name, and URL**
 
 xml
@@ -23,8 +23,9 @@ Copy code
     <extentreports-version>5.0.8</extentreports-version>
     <aspectj.version>1.9.19</aspectj.version>
 </properties>
+
 **Here, you define properties that can be referenced later in the file. For example, it specifies the source and target Java version for the Maven compiler, the version of extentreports, and the version of aspectj.**
------------------------------------------------------------------------------------------------
+
 Distribution Management
 xml
 Copy code
@@ -35,7 +36,7 @@ Copy code
     </snapshotRepository>
 </distributionManagement>
 **This section is used for specifying the location where Maven will deploy snapshot artifacts. In this case, it's configured for a Nexus repository.**
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Dependencies
 xml
 Copy code
