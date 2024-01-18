@@ -1,17 +1,5 @@
 **SeleniumautomationNotes1**
-
-xml
-Copy code
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>Aug2023POMSeries</groupId>
-    <artifactId>Aug2023POMSeries</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>Aug2023POMSeries</name>
-    <url>http://www.example.com</url>
-   
+![image](https://github.com/susmithatippireddy/SeleniumautomationNotes1/assets/145751489/506a39aa-6a38-45e2-a287-ad57211c8485)
 **This section defines the basic information about the Maven project, such as its group ID, artifact ID, version, name, and URL**
 
 xml
